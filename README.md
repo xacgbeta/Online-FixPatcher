@@ -7,7 +7,7 @@
 
 ## **Installation Instructions**
 
-1. Download the `Patch` from the [release](https://github.com/SteamAutoPatchLibraries/SteamOnlinePatch/releases).
+1. Download the `Patch` from the [release](https://github.com/xacgbeta/Online-FixPatcher/releases).
 2. Launch `Patch.exe`.
 3. `Browse` game folder directory.
 4. `Search`
